@@ -8,7 +8,6 @@
 ![image](app-screen-shot.png)
 
 
-
 ---
 ## Table of Contents
 [Technologies Used](#technologies-used)  
@@ -23,8 +22,6 @@
 * _Javascript_
 * _HTML_
 * _CSS_
-
-
 
 
 ---
