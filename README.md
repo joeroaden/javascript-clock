@@ -49,6 +49,5 @@ _Clock uses the Date object to give accurate time.  Custom styling used to build
 ## License
 
 
-
 [Copyright](/LICENSE) © 2022 Joe Roaden
 
