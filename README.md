@@ -27,7 +27,7 @@
 ---
 ## Description
 
-_Clock uses the Date object to give accurate time.  Custom styling used to build clock face, hands and numhers. Clone this project to style your own clock_
+_Clock uses the built in Date object to give accurate time.  Custom styling used to build clock face, hands and numhers. Clone this project to style your own clock_
 ---
 ## Setup and Installation Requirements
 
